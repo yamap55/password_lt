@@ -37,7 +37,7 @@ LOGGING_CONFIG = {
             "handlers": ["consoleHandler", "fileHandler"],
             "propagate": True,
         },
-        "hoge": {
+        "password_lt": {
             "level": "DEBUG",
             "handlers": ["consoleHandler", "fileHandler"],
             "propagate": False,

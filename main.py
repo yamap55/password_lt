@@ -1,6 +1,6 @@
 """main"""
 
-from hoge.huga import Huga
+from password_lt.huga import Huga
 from logging_config import setup_logging
 
 setup_logging()
